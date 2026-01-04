@@ -10,7 +10,9 @@ h3 {
 }
 
 p {
-  line-height: 1.6em;
+  line-height: 1.6em;p {
+  font-size: 1.2rem;
+  margin-bottom: 1rem;
 }
 
 .l-content {
@@ -165,12 +167,6 @@ p {
 .pure-menu .pure-menu-link:hover {
   text-transform: uppercase;
   letter-spacing: 0.05em;
-}
-
-p {
-  font-size: 1.2rem;
-  margin-bottom: 1rem;
-  font
 }
 
 html {
