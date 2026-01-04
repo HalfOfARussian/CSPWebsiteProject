@@ -154,7 +154,18 @@ p {
   }
 }
 
+.pure-menu .pure-button,
+.pure-menu .pure-menu-link {
+  text-transform: none;
+  letter-spacing: normal;
+  transition: letter-spacing 0.2s ease;
+}
 
+.pure-menu .pure-button:hover,
+.pure-menu .pure-menu-link:hover {
+  text-transform: uppercase;
+  letter-spacing: 0.05em;
+}
 
 html {
   scroll-behavior: smooth;
