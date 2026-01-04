@@ -1,0 +1,85 @@
+body {
+  color: #848484;
+}
+
+.pure-img-responsive {
+  max-width: 100%;
+  height: auto;
+}
+
+.pure-menu {
+  box-shadow: 0 1px 1px rgba(0, 0, 0, 0.1);
+}
+
+.pure-menu-link {
+  padding: 0.5em 0.7em;
+}
+
+.content {
+  display: flex;
+  flex-flow: column wrap;
+  justify-content: center;
+  margin: 0 auto;
+  padding: 0 2em;
+  max-width: 800px;
+  margin-bottom: 50px;
+  line-height: 1.6em;
+}
+
+.header {
+  margin: 0;
+  color: #333333;
+  text-align: center;
+  padding: 2.5em 2em 1em;
+  border-bottom: 1px solid #eee;
+}
+.header h1 {
+  margin: 0.2em 0;
+  font-family: fantasy;
+  text-decoration: underline;
+  font-size: 4em;
+  font-weight: 400;
+  
+}
+.header h2 {
+  font-weight: 300;
+  font-family: cursive;
+  color: #ccc;
+  padding: 0;
+  margin-top: 0;
+}
+
+.ul {
+  list-style-position: outside;
+  padding-left: 1.5rem;
+}
+
+.ul .li {
+  padding-left: 0.5rem;
+}
+
+.content-subhead {
+  margin: 50px 0 5px 0;
+  font-weight: 700;
+  color: #3c3c3c;
+}
+
+.content p {
+  font-size: 1.2rem;
+  margin-bottom: 1rem;
+  font
+}
+
+
+.pure-menu .pure-button,
+.pure-menu .pure-menu-link {
+  text-transform: none;
+  letter-spacing: normal;
+  transition: letter-spacing 0.2s ease;
+}
+
+.pure-menu .pure-button:hover,
+.pure-menu .pure-menu-link:hover {
+  text-transform: uppercase;
+  letter-spacing: 0.05em;
+}
