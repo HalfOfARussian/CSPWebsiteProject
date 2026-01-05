@@ -66,9 +66,12 @@ body {
 .content p {
   font-size: 1.2rem;
   margin-bottom: 1rem;
-  font
 }
 
+.content li {
+  font-size: 1.2rem;
+  margin-bottom: 1rem;
+}
 
 .pure-menu .pure-button,
 .pure-menu .pure-menu-link {
