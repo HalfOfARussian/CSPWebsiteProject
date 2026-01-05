@@ -4,7 +4,7 @@ body {
 
 .pure-img-responsive {
   max-width: 100%;
-  width: 500;
+  height: 500;
 }
 
 .pure-menu {
