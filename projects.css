@@ -1,9 +1,9 @@
 body {
-    transform: scale(1.5);
+    transform: scale(2);
     transform-origin: 0 0;
-    -ms-transform: scale(1.5);
-    -webkit-transform: scale(1.5);
-    width: 150%;
+    -ms-transform: scale(2);
+    -webkit-transform: scale(2);
+    width: 100%;
 }
 
 h2,
@@ -53,7 +53,7 @@ li {
   background-size: cover;
   filter: progid:DXImageTransform.Microsoft.AlphaImageLoader(src='https://cdn.pixabay.com/photo/2016/11/19/14/00/code-1839406_1280.jpg', sizingMethod='scale');
   height: 200px;
-  width: 100%;
+  width: 80%;
   margin-bottom: 3em;
 }
 
