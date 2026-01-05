@@ -1,5 +1,9 @@
 body {
-  color: #526066;
+    transform: scale(1.5);
+    transform-origin: 0 0;
+    -ms-transform: scale(1.2);
+    -webkit-transform: scale(1.2);
+    width: 100%;
 }
 
 h2,
